@@ -1,3 +1,3 @@
 # Kokoa Clone 2030 Update
 
-CSS
+HTML & CSS are so fun!!
